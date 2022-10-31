@@ -1,4 +1,4 @@
-### !(SQLzoo)[https://www.linkedin.com/in/aysegul-s-a4760165/ "SQLzoo"] tutorial Solutions ###
+### [SQLzoo](https://sqlzoo.net/wiki/SQL_Tutorial) tutorial Solutions ###
 1.[SELECT BASICS](#basics)\
 2.[SELECT NAME](#name)\
 3.[SELECT from World](#World)\
