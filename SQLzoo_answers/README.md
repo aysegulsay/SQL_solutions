@@ -7,12 +7,13 @@
 6.[SUM and COUNT](#sum)\
 7.[JOIN](#join)\
 8.[More JOIN operations](#morejoin)\
-9.[Using Null](#null)
-10.[Numeric Examples](#numeric)
-11.[Window function](#window)
-12.[COVID 19](#covid)
-13.[Self join](#selfjoin)
-14.[Tutorial Quizzes](#quizes)
+9.[Using Null](#null)\
+10.[Numeric Examples](#numeric)\
+11.[Window function](#window)\
+12.[COVID 19](#covid)\
+13.[Self join](#selfjoin)\
+14.[Tutorial Quizzes](#quizes)\
+
 
 #### SELECT BASICS <a name="basics"></a> ####
 
